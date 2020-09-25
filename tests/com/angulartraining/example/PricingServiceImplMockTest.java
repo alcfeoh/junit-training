@@ -32,6 +32,7 @@ public class PricingServiceImplMockTest {
             will(returnValue(450));
         }});
         assertEquals(450,  this.service.getPrice("21"));
+        context.assertIsSatisfied();
     }
 
     @Test
