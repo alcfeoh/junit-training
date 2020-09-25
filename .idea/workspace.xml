@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10ebdd3c-8b29-47cd-8b42-9af85ef6e83d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hCd8UKsAz4Hn71dsvEXFmEms95" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/tests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.angulartraining" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.angulartraining" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.angulartraining.cart" />
+      <recent name="com.angulartraining" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PricingServiceImplTest (2)">
+    <configuration name="PricingServiceImplMockTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angulartraining.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.angulartraining.example" />
+      <option name="MAIN_CLASS_NAME" value="com.angulartraining.example.PricingServiceImplMockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PricingServiceImplMockTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angulartraining.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.angulartraining.example" />
+      <option name="MAIN_CLASS_NAME" value="com.angulartraining.example.PricingServiceImplMockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PricingServiceImplMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angulartraining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.angulartraining" />
+      <option name="MAIN_CLASS_NAME" value="com.angulartraining.PricingServiceImplMockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PricingServiceImplTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angulartraining.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.angulartraining.example" />
+      <option name="MAIN_CLASS_NAME" value="com.angulartraining.example.PricingServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PricingServiceImplTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angulartraining.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.angulartraining.example" />
+      <option name="MAIN_CLASS_NAME" value="com.angulartraining.example.PricingServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.PricingServiceImplMockTest" />
+      <item itemvalue="JUnit.PricingServiceImplMockTest (1)" />
+      <item itemvalue="JUnit.PricingServiceImplTest (1)" />
+      <item itemvalue="JUnit.PricingServiceImplTest (2)" />
+      <item itemvalue="JUnit.PricingServiceImplMockTest (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PricingServiceImplTest (2)" />
+        <item itemvalue="JUnit.PricingServiceImplMockTest (2)" />
+        <item itemvalue="JUnit.PricingServiceImplMockTest (1)" />
+        <item itemvalue="JUnit.PricingServiceImplTest (1)" />
+        <item itemvalue="JUnit.PricingServiceImplMockTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="727" y="343" key="#Notifications" timestamp="1600994310863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="343" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600994310863" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1600992131910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600992131910" />
+    <state x="790" y="230" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1600992118231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="230" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600992118231" />
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600991547580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600991547580" />
+    <state x="743" y="384" width="477" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599519497321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="384" width="477" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599519497321" />
+    <state x="690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1600992121643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600992121643" />
+    <state x="666" y="261" key="FileChooserDialogImpl" timestamp="1600994182379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600994182379" />
+    <state width="1877" height="317" key="GridCell.Tab.0.bottom" timestamp="1600992628999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600992628999" />
+    <state width="1877" height="317" key="GridCell.Tab.0.center" timestamp="1600992628999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="317" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600992628999" />
+    <state width="1877" height="317" key="GridCell.Tab.0.left" timestamp="1600992628999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="317" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600992628999" />
+    <state width="1877" height="317" key="GridCell.Tab.0.right" timestamp="1600992628999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="317" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600992628999" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1600992331999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600992331999" />
+    <state x="797" y="297" key="chooseDestDirectoryDialog" timestamp="1599519495848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="797" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599519495848" />
+    <state x="664" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600992112407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600992112407" />
+    <state x="731" y="314" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1599519148548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="314" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599519148548" />
+    <state x="666" y="119" width="587" height="801" key="find.popup" timestamp="1600994209016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="119" width="587" height="801" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600994209016" />
+  </component>
+</project>
